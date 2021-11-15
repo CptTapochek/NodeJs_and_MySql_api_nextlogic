@@ -11,3 +11,5 @@
 ## Pornirea aplicatiei:
 - Pentru a porni aplicatia se scrie in terminal `$ nodemon app.js` sau `$ node app.js`.
 - Pentru a deschide pagina principala se scrie web adresa care este in default localhost:3000 (aceasta se poate seta in `.env`).
+
+by Bozu Andrei
