@@ -9,6 +9,7 @@ const jwt = require('jsonwebtoken');
 const db = require('./db');
 const Students = db.content;
 const PORT = process.env.PORT;
+const HOST = process.env.HOST;
 
 
 
@@ -167,7 +168,7 @@ var server = http.createServer(function (req, res){
 });
 
 /* Listen server */
-server.listen(PORT, 'localhost');
+server.listen(PORT, HOST);
 console.log("Server works!");
 
 
