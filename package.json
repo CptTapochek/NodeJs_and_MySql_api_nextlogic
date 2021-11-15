@@ -1,0 +1,28 @@
+{
+  "name": "project_x",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CptTapochek/Project_X.git"
+  },
+  "author": "Andrei Bozu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CptTapochek/Project_X/issues"
+  },
+  "homepage": "https://github.com/CptTapochek/Project_X#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "jsonwebtoken": "^8.5.1",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.3.3-rc.0",
+    "nodemon": "^2.0.15",
+    "sequelize": "^6.9.0",
+    "vuelidate": "^0.7.6"
+  }
+}
