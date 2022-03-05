@@ -1,4 +1,4 @@
-# Project_X
+# NodeJs and mysql api for nextlogic
 
 ## Instalarea: 
 - Toate npm modelurile au fost initializate in `package.json` , de aceia este necesar doar de scris $ npm install.
